@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+you need to add youtube data api V3 from google cloud in .env in order to run the project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
